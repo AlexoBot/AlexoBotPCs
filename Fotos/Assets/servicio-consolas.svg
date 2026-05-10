@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Consola en mantenimiento</title>
+  <desc id="desc">Ilustracion de una consola con controles y lineas de diagnostico</desc>
+  <rect width="640" height="420" fill="#080714"/>
+  <path d="M0 0h640v420H0z" fill="url(#grid)"/>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0v28" fill="none" stroke="#4d4d4d" stroke-opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect x="184" y="82" width="272" height="256" rx="26" fill="#11102a" stroke="#5dcaa5" stroke-width="3"/>
+  <path d="M224 130h192M224 170h140M224 210h192M224 250h116" stroke="#666688" stroke-width="10" stroke-linecap="round"/>
+  <path d="M448 116h34a42 42 0 0 1 40 30l24 78a38 38 0 0 1-62 39l-28-27M192 116h-34a42 42 0 0 0-40 30l-24 78a38 38 0 0 0 62 39l28-27" fill="#0d0b20" stroke="#5dcaa5" stroke-opacity=".74" stroke-width="4"/>
+  <circle cx="492" cy="177" r="12" fill="#5dcaa5"/>
+  <circle cx="522" cy="207" r="12" fill="#ffffff" opacity=".7"/>
+  <path d="M134 194h54M161 167v54" stroke="#ffffff" stroke-opacity=".7" stroke-width="11" stroke-linecap="round"/>
+  <path d="M278 306h84" stroke="#5dcaa5" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="320" cy="94" r="8" fill="#5dcaa5"/>
+</svg>

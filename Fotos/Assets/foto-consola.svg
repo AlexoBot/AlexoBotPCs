@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Mantenimiento de consola</title>
+  <desc id="desc">Visual de consola abierta y patrones de ventilacion</desc>
+  <rect width="720" height="720" fill="#080714"/>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0v30" fill="none" stroke="#4d4d4d" stroke-opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="720" height="720" fill="url(#grid)"/>
+  <rect x="126" y="132" width="468" height="456" rx="28" fill="#11102a" stroke="#5dcaa5" stroke-opacity=".78" stroke-width="4"/>
+  <path d="M198 210h324M198 258h324M198 306h324M198 354h324" stroke="#666688" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="360" cy="466" r="62" fill="#0d0b20" stroke="#5dcaa5" stroke-width="4"/>
+  <path d="M360 404v124M298 466h124" stroke="#5dcaa5" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="360" cy="466" r="16" fill="#ffffff" opacity=".72"/>
+</svg>

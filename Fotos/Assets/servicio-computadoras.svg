@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Computadora en reparacion</title>
+  <desc id="desc">Ilustracion tech de una laptop con diagnostico activo</desc>
+  <rect width="640" height="420" fill="#080714"/>
+  <path d="M0 0h640v420H0z" fill="url(#grid)"/>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0v28" fill="none" stroke="#4d4d4d" stroke-opacity=".18"/>
+    </pattern>
+    <linearGradient id="glow" x1="138" x2="502" y1="74" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5dcaa5" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#666688" stop-opacity=".12"/>
+    </linearGradient>
+  </defs>
+  <rect x="112" y="72" width="416" height="250" rx="18" fill="#0d0b20" stroke="#5dcaa5" stroke-opacity=".72" stroke-width="3"/>
+  <rect x="140" y="104" width="360" height="184" rx="8" fill="#11102a"/>
+  <path d="M168 136h146M168 168h236M168 200h186M168 232h112" stroke="#5dcaa5" stroke-width="10" stroke-linecap="round"/>
+  <path d="M394 138h74M394 170h48M394 202h74M394 234h38" stroke="#ffffff" stroke-opacity=".55" stroke-width="8" stroke-linecap="round"/>
+  <path d="M72 342h496l42 48H30l42-48Z" fill="#12112b" stroke="#666688" stroke-opacity=".42"/>
+  <path d="M272 356h96l12 14H260l12-14Z" fill="#5dcaa5" opacity=".85"/>
+  <circle cx="510" cy="84" r="46" fill="url(#glow)"/>
+  <circle cx="510" cy="84" r="9" fill="#5dcaa5"/>
+</svg>

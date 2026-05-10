@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Telefono en reparacion</title>
+  <desc id="desc">Ilustracion tech de telefono con circuito y diagnostico</desc>
+  <rect width="640" height="420" fill="#080714"/>
+  <path d="M0 0h640v420H0z" fill="url(#grid)"/>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0v28" fill="none" stroke="#4d4d4d" stroke-opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect x="220" y="48" width="200" height="324" rx="34" fill="#0d0b20" stroke="#5dcaa5" stroke-width="4"/>
+  <rect x="244" y="86" width="152" height="238" rx="14" fill="#11102a"/>
+  <circle cx="320" cy="344" r="10" fill="#666688"/>
+  <path d="M282 126h76M282 160h52M282 194h76M282 228h44" stroke="#5dcaa5" stroke-width="9" stroke-linecap="round"/>
+  <path d="M164 124h56M164 124v72M164 196h56M476 124h-56M476 124v72M476 196h-56" stroke="#666688" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="164" cy="124" r="12" fill="#5dcaa5"/>
+  <circle cx="164" cy="196" r="12" fill="#5dcaa5"/>
+  <circle cx="476" cy="124" r="12" fill="#5dcaa5"/>
+  <circle cx="476" cy="196" r="12" fill="#5dcaa5"/>
+  <path d="M292 70h56" stroke="#ffffff" stroke-opacity=".68" stroke-width="7" stroke-linecap="round"/>
+</svg>
